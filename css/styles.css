@@ -1,0 +1,130 @@
+body
+{
+    margin: 0;
+    text-align: center;
+    font-family:'Noto Serif', serif;
+}
+
+
+h1
+{
+    width: 40%;
+    margin: 0 auto;
+    font-size: 4rem;
+    font-family: 'Silkscreen', cursive;
+    color: #71C9CE;
+}
+h2{
+  color: #A6E3E9;
+}
+h3{
+  color: #71C9CE;
+}
+hr{
+  border: dotted #A6E3E9 5px;
+  border-bottom: none;
+  width: 50%;
+}
+a{
+  color: #71C9CE;
+}
+a:hover{
+  color: white;
+}
+.skill-row{
+        width: 40%;
+        margin: 100px auto 100px auto;
+        text-align: left;
+        line-height: 2;
+}
+.subtitle{
+    font-family: 'Silkscreen', cursive;
+    color: #71C9CE;
+}
+.cloudtop
+{
+    position: absolute;
+    top: 0;
+    right: 30%;
+}
+.cloud
+{
+    position: absolute;
+    bottom: 300px;
+    left: 30%;
+}
+.mountain{
+  position: relative;
+  bottom: 0;
+}
+.top
+{
+    position: relative;
+    padding-top: 100px;
+    background: #E3FDFD;
+    border-bottom: 0;
+    padding-bottom: 0;
+}
+.Java{
+  width: 140px;
+  float: left;
+  margin-right: 30px;
+}
+.python{
+  width: 140px;
+  float: right;
+  margin-left: 30px;
+}
+.bottom-container{
+  background-color: #CBF1F5;
+}
+.btn {
+  background: #71C9CE;
+  background-image: -webkit-linear-gradient(top, #71C9CE, #2980b9);
+  background-image: -moz-linear-gradient(top, #71C9CE, #2980b9);
+  background-image: -ms-linear-gradient(top, #71C9CE, #2980b9);
+  background-image: -o-linear-gradient(top, #71C9CE, #2980b9);
+  background-image: linear-gradient(to bottom, #71C9CE, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin-top: 50px;
+}
+
+.btn:hover {
+  background: #71C9CE;
+  background-image: -webkit-linear-gradient(top, #71C9CE, #3498db);
+  background-image: -moz-linear-gradient(top, #71C9CE, #3498db);
+  background-image: -ms-linear-gradient(top, #71C9CE, #3498db);
+  background-image: -o-linear-gradient(top, #71C9CE, #3498db);
+  background-image: linear-gradient(to bottom, #71C9CE, #3498db);
+  text-decoration: none;
+}
+.footer-lin{
+  color: #71C9CE;
+}
+.Name1{
+  color: white;
+  font-size: 0.75rem;
+}
+.middle-container{
+  padding-bottom:50px;
+}
+.bottom-container{
+  padding-top: 20px;
+  padding-bottom: 50px;
+}
+.botmf{
+  margin-bottom: 50px;
+  color: #71C9CE;
+}
+.profile{
+  width: 30%;
+  text-align: center;
+  margin: auto;
+}
